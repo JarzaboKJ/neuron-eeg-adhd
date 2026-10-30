@@ -1,0 +1,5 @@
+adhdata.csv
+.venv
+__pycache__
+.ipynb_checkpoints/
+adhdata.csv:Zone.Identifier
